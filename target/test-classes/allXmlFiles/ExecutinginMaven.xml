@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+
+
+
+  <test name="front-end">
+
+
+<classes>
+
+<class name="allClassFiles.Example1"/>
+
+</classes>
+
+</test>
+
+<!-- Test -->
+
+
+</suite>
+  
+  
